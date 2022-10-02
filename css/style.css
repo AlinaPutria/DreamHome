@@ -841,7 +841,7 @@ a {
 }
 
 .swiper-container {
-    max-width: 700px;
+    max-width: 734px;
 }
 
 .swiper-pagination {
@@ -897,7 +897,7 @@ a {
 .image4 {
     max-width: 100%;
     width: 353px;
-    height: 530px;
+    height: 549px;
     background: center / cover no-repeat url('./img/projects/img4.png');
 }
 
