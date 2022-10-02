@@ -1,6 +1,6 @@
 # DreamHome
-Visit site  
-Store website. 
+Visit site  https://alinaputria.github.io/DreamHome/
+Business card website. 
 Used in the work:
 - CSS;
 - JS;
